@@ -1,0 +1,155 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+	"promos": {
+		"1.16.5-latest": "6.3.3",
+		"1.16.5-recommended": "6.3.3",
+		"1.16.4-latest": "1.16-6.2.5",
+		"1.16.4-recommended": "1.16-6.2.5",
+		"1.16.3-latest": "1.16-6.2.5",
+		"1.16.3-recommended": "1.16-6.2.5",
+		"1.16.1-latest": "5.0.2",
+		"1.16.1-recommended": "5.0.2",
+		"1.15.2-latest": "4.6.0",
+		"1.15.2-recommended": "4.6.0",
+		"1.15.1-latest": "4.2.2",
+		"1.15.1-recommended": "4.2.1",
+		"1.14.4-latest": "4.3.6",
+		"1.14.4-recommended": "4.3.6",
+		"1.14.3-latest": "3.7.1",
+		"1.14.3-recommended": "3.7.1",
+		"1.14.2-latest": "3.6.2",
+		"1.14.2-recommended": "3.6.2",
+		"1.13.2-latest": "3.5.2",
+		"1.13.2-recommended": "3.5.2",
+		"1.12.2-latest": "4.1.2",
+		"1.12.2-recommended": "4.1.1",
+		"1.12.1-latest": "2.9.9",
+		"1.12.1-recommended": "2.9.9",
+		"1.11.2-latest": "2.9.0.1",
+		"1.11.2-recommended": "2.9.0.1",
+		"1.10.2-latest": "2.9.4",
+		"1.10.2-recommended": "2.9.4",
+		"1.9.4-latest": "1.4.1",
+		"1.9.4-recommended": "1.4.1",
+		"1.8.9-latest": "1.4.1",
+		"1.8.9-recommended": "1.4.1"
+	},
+	"1.16.5": {
+		"6.3.3": "configs & improvments",
+		"1.16-6.3.2": "adapt the spawn placement logic & config",
+		"1.16-6.3.1": "chinese translations & config",
+		"1.16-6.3.0": "grave plate and a way to create ancien tablet",
+		"1.16-6.2.5": "improvements & compatibility"
+	},
+	"1.16.4": {
+		"1.16-6.2.5": "improvements & compatibility",
+		"1.16-6.2.3": "improve command siege, gui, reset_ankh",
+		"1.16-6.2.2": "improvements",
+		"1.16-6.2.0": "pray of protection, familiar receptacle filled in drop & merge of tp commands",
+		"1.16-6.1.0": "improvements",
+		"1.16-6.0.3": "some fixes and re-add contributor list",
+		"1.16-6.0.2": "fixed server side crash",
+		"1.16-6.0.1": "initial port (by Raycoms)"
+	},
+	"1.16.3": {
+		"1.16-6.2.5": "improvements & compatibility",
+		"1.16-6.2.3": "improve command siege, gui, reset_ankh",
+		"1.16-6.2.2": "improvements",
+		"1.16-6.2.0": "pray of protection, familiar receptacle filled in drop & merge of tp commands",
+		"1.16-6.1.0": "improvements",
+		"1.16-6.0.3": "some fixes and re-add contributor list",
+		"1.16-6.0.2": "fixed server side crash",
+		"1.16-6.0.1": "initial port (by Raycoms)"
+	},
+	"1.16.1": {
+		"5.0.2": "fixed crash when initializing commands",
+		"5.0.1": "initial port"
+	},
+	"1.15.2": {
+		"4.6.0": "some fixes",
+		"4.5.6": "open source release, fixed version checker link, removed contributors link & optimized texture files",
+		"4.4.1": "configs, minecolonies compat, improve russian translation",
+		"4.4.0": "tweak voodoo poppet, new configs & scroll of lightning resistance",
+		"4.3.8": "translation(zh_tw), update to new forge RB & improvements",
+		"4.3.7": "update to forge 31.1.87 & fix the conversion of zombie villager",
+		"4.3.6": "bone needle (#165), compat toolbelt & tetra, fixes",
+		"4.3.5": "improvements, fix #160 & configs about the losses on death (#161)",
+		"4.3.4": "improvements, refactor & fix",
+		"4.3.3": "command tbbind, tbteleportdeath & config for fishing in open water",
+		"4.3.2": "command tbteleportbiome, tbrequestteleport & new configs",
+		"4.3.1": "fishing & open water, config options about the fog",
+		"4.3.0": "new config options, improvements & new grave model",
+		"4.2.5": "integration top, enchantment Plague Bringer and improvements",
+		"4.2.4": "server configs moved in normal config folder (#135) & sync to players on dedicated server",
+		"4.2.3": "tablet of cupidity & improvements about disabled magic items",
+		"4.2.2": "spanish translation, new perk Tomb Raider",
+		"4.2.1": "fix #122 (tablets can crash server)",
+		"4.2.0": "multiple changes (see changelog)"
+	},
+	"1.15.1": {
+		"4.2.2": "spanish translation, new perk Tomb Raider",
+		"4.2.1": "fix #122 (tablets can crash server)",
+		"4.2.0": "multiple changes (see changelog)"
+	},
+	"1.14.4": {
+		"4.3.6": "translation(zh_tw) & improvements",
+		"4.3.5": "bone needle (#165), compat tetra & fixes",
+		"4.3.4": "support for modded structures, fix #160, configs about the losses on death (#161)",
+		"4.3.3": "tbteleportdeath, tbbind, improve tablet of cupidity, compat toolbelt, config for fishing condition",
+		"4.3.2": "compat druidcraft, command tbteleportbiome, tbrequestteleport & new configs",
+		"4.3.1": "fishing & open water, config options about the fog",
+		"4.3.0": "new config options, improvements & new grave model",
+		"4.2.4": "integration top, enchantment Plague Bringer and improvements",
+		"4.2.3": "server configs moved in normal config folder (#135) & sync to players on dedicated server",
+		"4.2.2": "tablet of cupidity & improvements about disabled magic items",
+		"4.2.1": "spanish translation, new perk Tomb Raider",
+		"4.2.0": "fix for tablet of assistance (since 4.1.9)"
+	},
+	"1.14.3": {
+		"3.7.1": "fix #70, #71 & the number of enchantments extracted"
+	},
+	"1.14.2": {
+		"3.6.2": "custom triggers for advancements(#68), support in JEI, fix about potion type"
+	},
+	"1.13.2": {
+		"3.5.2": "improves the command to revive tamed creatures"
+	},
+	"1.12.2": {
+		"4.1.2": "improvements & config",
+		"4.1.1": "update chinese lang, config & compatibility",
+		"4.1.0": "grave plate, pray of protection & command to reset the ankh",
+		"4.0.1": "some fixes and texture compression",
+		"4.0.0": "perk alchemy & white graves",
+		"3.7.5": "translations, voodoo poppet tweak & configs for alignment",
+		"3.7.4": "improvements",
+		"3.7.3": "tbteleportdeath, tbbind, improve tablet of cupidity, compat forgeessentials",
+		"3.7.2": "tbrequestteleport, fix #105, new configs",
+		"3.7.1": "config options about the fog",
+		"3.7.0": "new config options & improvements",
+		"3.6.9": "tablet of cupidity, enchantment plague bringer & integration TheOneProbe",
+		"3.6.8": "fix #133 (bug introduced in 3.6.7, dying around a grave can break that grave)",
+		"3.6.7": "improve spanish translation, fix Hwyla compat (#124)",
+		"3.6.6": "spanish translation, fix for tablet of assistance (since 3.6.5)",
+		"3.6.5": "compat FuturePack/AdvancedFishing/Quark, fix for tablet of assistance, grave item interaction",
+		"3.6.4": "compat Hwyla (fix #107) and compat TConstruct (fix #112)",
+		"3.6.3": "fix #103 (lost tablet awakening), fix plate texture on graves and russian lang",
+		"3.6.2": "command to teleport respawn + tablet, new texture for ghost & guis, fix #98",
+		"3.6.1": "multiple changes (see changelog)",
+		"3.6.0": "relook the knowledge gui, scroll of reach & fix nightvision with True Sight/Ghostly Shape"
+	},
+	"1.12.1": {
+		"2.9.9": "only fix and change the grave ground with vanilla texture"
+	},
+	"1.11.2": {
+		"2.9.0.1": "fix the achievements about prevent death with voodoo poppets & use some magic scrolls"
+	},
+	"1.10.2": {
+		"2.9.4": "book of disenchantment, auto-respawn, backup, auto-equip BetweenLands & skip anti griefing mods"
+	},
+	"1.9.4": {
+		"1.4.1": "current last version for 1.9.4"
+	},
+	"1.8.9": {
+		"1.4.1": "current last version for 1.8.9"
+	}
+}
