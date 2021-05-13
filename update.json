@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.16.5-latest": "6.3.5",
-		"1.16.5-recommended": "6.3.3",
+		"1.16.5-latest": "6.3.6",
+		"1.16.5-recommended": "6.3.5",
 		"1.16.4-latest": "1.16-6.2.5",
 		"1.16.4-recommended": "1.16-6.2.5",
 		"1.16.3-latest": "1.16-6.2.5",
@@ -35,13 +35,10 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.16.5": {
+		"6.3.6": "improvements",
 		"6.3.5": "ukrainian lang, auto-equip, compat & drop",
 		"6.3.4": "compatibilities",
-		"6.3.3": "configs & improvements",
-		"1.16-6.3.2": "adapt the spawn placement logic & config",
-		"1.16-6.3.1": "chinese translations & config",
-		"1.16-6.3.0": "grave plate and a way to create ancien tablet",
-		"1.16-6.2.5": "improvements & compatibility"
+		"6.3.3": "configs & improvements"
 	},
 	"1.16.4": {
 		"1.16-6.2.5": "final version"
@@ -74,13 +71,7 @@
 		"4.4.1": "improvements & fix 4.4.0",
 		"4.4.0": "disableable items, configs, perk Tomb Raider",
 		"4.3.0": "2 grave models, config, bone needle & familiar receptacle drop",
-		"4.2.0": "improved commands related to graves, config & fixes",
-		"4.1.2": "improvements & config",
-		"4.1.1": "update chinese lang, config & compatibility",
-		"4.1.0": "grave plate, pray of protection & command to reset the ankh",
-		"4.0.1": "some fixes and texture compression",
-		"4.0.0": "perk alchemy & white graves",
-		"3.7.5": "translations, voodoo poppet tweak & configs for alignment"
+		"4.2.0": "improved commands related to graves, config & fixes"
 	},
 	"1.12.1": {
 		"2.9.9": "final version"
