@@ -21,8 +21,8 @@
 		"1.14.2-recommended": "3.6.2",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.4.1",
-		"1.12.2-recommended": "4.2.0",
+		"1.12.2-latest": "4.4.2",
+		"1.12.2-recommended": "4.4.2",
 		"1.12.1-latest": "2.9.9",
 		"1.12.1-recommended": "2.9.9",
 		"1.11.2-latest": "2.9.0.1",
@@ -71,6 +71,7 @@
 		"3.5.2": "final version"
 	},
 	"1.12.2": {
+		"4.4.2": "compatibilities & fix familiar receptacle",
 		"4.4.1": "improvements & fix 4.4.0",
 		"4.4.0": "disableable items, configs, perk Tomb Raider",
 		"4.3.0": "2 grave models, config, bone needle & familiar receptacle drop",
