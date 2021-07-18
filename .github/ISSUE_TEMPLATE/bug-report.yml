@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report an issue
-title: ""
+title: "Bug: "
 labels: [bug]
 body:
   - type: markdown
@@ -58,7 +58,6 @@ body:
     attributes:
       label: Log Link
       description: paste a link for logs in case of crash or if relevant in the resolution of the issue
-      render: shell
 
   - type: dropdown
     id: gametype
@@ -77,7 +76,7 @@ body:
       label: Tested with only Corail Tombstone
       description: you have been able to reproduce the issue with only Corail Tombstone
       options:
-        - label: Yes
+        - label: "Yes"
 
   - type: input
     id: relevant-mods
