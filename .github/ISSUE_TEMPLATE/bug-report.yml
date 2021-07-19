@@ -1,13 +1,12 @@
 name: Bug Report
 description: Report an issue
-title: "Bug: "
 labels: [bug]
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome to the place to report issues. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)**
-        Make to sure to provide any information that could help in the resolution of the issue.
+        Welcome to the place to report issues. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+        Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
   
   - type: markdown
@@ -49,7 +48,6 @@ body:
       label: What happened?
       description: What did you expect to happen? What are the steps to reproduce it
       placeholder: Try to provide the maximum of details!
-      value: "A bug happened!"
     validations:
       required: true
 
@@ -58,6 +56,7 @@ body:
     attributes:
       label: Log Link
       description: paste a link for logs in case of crash or if relevant in the resolution of the issue
+      placeholder: pastebin link
 
   - type: dropdown
     id: gametype
@@ -81,7 +80,7 @@ body:
   - type: input
     id: relevant-mods
     attributes:
-      label: Relevant others mods to make the issue happening
-    validations:
-      required: false    
+      label: Relevant others mods
+      description: others mods to make the issue happening
+      placeholder: only required if it's not reproducible with only Corail Tombstone    
           
