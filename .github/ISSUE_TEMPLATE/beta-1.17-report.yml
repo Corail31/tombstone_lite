@@ -1,0 +1,82 @@
+name: Beta 1.17.1 Report
+description: Report a bug in the beta 1.17.1
+labels: [beta, 1.17.1, bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the place to report issues for the beta 1.17.1. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+        Make to sure to provide any information that can help in the resolution of the issue.
+        The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
+        Also make sure if it's not a known issue:
+        - client config screen is disabled
+        - smoke around graves is disabled
+        - magic circles don't display when using a magic item (disabled)
+        - halloween decorations on graves are disabled
+        - the player is not ghostly with Ghostly Shape (fixed in dev)
+        - visibility in water/lava with true sight is broken (fixed in dev)
+  
+  - type: markdown
+    attributes:
+      value: "## Versions"
+      
+  - type: input
+    id: forge-version
+    attributes:
+      label: Forge Version
+    validations:
+      required: true
+      
+  - type: input
+    id: tombstone-version
+    attributes:
+      label: Corail Tombstone Version
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: "## Issue Description"
+             
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect to happen? What are the steps to reproduce it
+      placeholder: Try to provide the maximum of details!
+    validations:
+      required: true
+
+  - type: input
+    id: log-link
+    attributes:
+      label: Log Link
+      description: paste a link for logs in case of crash or if relevant in the resolution of the issue
+      placeholder: pastebin link
+
+  - type: dropdown
+    id: gametype
+    attributes:
+      label: Gametype
+      multiple: true
+      options:
+        - Singleplayer
+        - Dedicated Server
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: tombstone-only
+    attributes:
+      label: Tested with only Corail Tombstone
+      description: you have been able to reproduce the issue with only Corail Tombstone
+      options:
+        - label: "Yes"
+
+  - type: input
+    id: relevant-mods
+    attributes:
+      label: Relevant others mods
+      description: others mods to make the issue happening
+      placeholder: only required if it's not reproducible with only Corail Tombstone    
+          
