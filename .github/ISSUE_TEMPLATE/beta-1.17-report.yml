@@ -12,9 +12,10 @@ body:
         - client config screen is disabled
         - smoke around graves is disabled
         - magic circles don't display when using a magic item (disabled)
-        - halloween decorations on graves are disabled
+        - halloween decorations on graves are disabled (fixed in dev)
         - the player is not ghostly with Ghostly Shape (fixed in dev)
         - visibility in water/lava with true sight is broken (fixed in dev)
+        - some advancements can't trigger due to nbt containing escape character /" (fixed in dev)
   
   - type: markdown
     attributes:
