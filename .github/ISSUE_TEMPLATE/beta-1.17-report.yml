@@ -8,14 +8,8 @@ body:
         Welcome to the place to report issues for the beta 1.17.1. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
-        Also make sure if it's not a known issue:
-        - client config screen is disabled
-        - smoke around graves is disabled
+        Also make sure you're using the latest beta and if this is not a known issue:
         - magic circles don't display when using a magic item (disabled)
-        - halloween decorations on graves are disabled (fixed in dev)
-        - the player is not ghostly with Ghostly Shape (fixed in dev)
-        - visibility in water/lava with true sight is broken (fixed in dev)
-        - some advancements can't trigger due to nbt containing escape character /" (fixed in dev)
   
   - type: markdown
     attributes:
