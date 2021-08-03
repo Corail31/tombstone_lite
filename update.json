@@ -23,8 +23,8 @@
 		"1.14.2-recommended": "3.6.2",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.4.5",
-		"1.12.2-recommended": "4.4.5",
+		"1.12.2-latest": "4.4.6",
+		"1.12.2-recommended": "4.4.6",
 		"1.12.1-latest": "2.9.9",
 		"1.12.1-recommended": "2.9.9",
 		"1.11.2-latest": "2.9.0.1",
@@ -84,6 +84,7 @@
 		"3.5.2": "final version"
 	},
 	"1.12.2": {
+		"4.4.6": "fix Shadow Walker",
 		"4.4.5": "rebalancing",
 		"4.4.4": "perk Shadow Walker, lost tablet of exploration & improvements",
 		"4.4.3": "new advancements & 2 enchantments",
