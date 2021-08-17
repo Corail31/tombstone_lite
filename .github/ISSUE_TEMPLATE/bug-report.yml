@@ -80,7 +80,9 @@ body:
   - type: input
     id: relevant-mods
     attributes:
-      label: Relevant others mods
-      description: others mods to make the issue happening
-      placeholder: only required if it's not reproducible with only Corail Tombstone    
+      label: Relevant mods
+      description: mods to make the issue happening
+      placeholder: a short list of mods (max 5) to make the issue happening or just "Corail Tombstone" if it's reproducible with only this mod
+    validations:
+      required: true
           
