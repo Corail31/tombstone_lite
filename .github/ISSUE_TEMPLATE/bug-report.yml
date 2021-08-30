@@ -84,5 +84,15 @@ body:
     id: relevant-mods
     attributes:
       label: Other relevant mods
-      description: if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening (if this information is incorrect, your issue will be directly closed)
+      description: if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening\nif this information is incorrect, your issue will be directly closed
       placeholder: other mods to make the issue happening
+      
+  - type: checkboxes
+    id: valid-user
+    attributes:
+      label: Valid User
+      description: you don't use a hacked launcher, you have a license for minecraft and so, your log will contain a valid uuid
+      options:
+        - label: "Yes"
+    validations:
+      required: true
