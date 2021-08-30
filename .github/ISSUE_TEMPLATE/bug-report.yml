@@ -75,8 +75,8 @@ body:
       label: Happen with only Corail Tombstone
       description: you have been able to make this issue happening with only Corail Tombstone. If you don't make this test, your issue will be directly closed without any answer
       options:
-        - No
-        - Yes
+        - "No"
+        - "Yes"
     validations:
       required: true
 
