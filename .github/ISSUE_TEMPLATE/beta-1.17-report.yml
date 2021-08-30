@@ -75,7 +75,9 @@ body:
     id: relevant-mods
     attributes:
       label: Other relevant mods
-      description: if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening\nif this information is incorrect, your issue will be directly closed
+      description: |
+        if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening
+        if this information is incorrect, your issue will be directly closed
       placeholder: other mods to make the issue happening
       
   - type: checkboxes
