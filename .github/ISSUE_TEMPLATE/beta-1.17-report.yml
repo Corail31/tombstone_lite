@@ -64,7 +64,7 @@ body:
     id: tombstone-only
     attributes:
       label: Happen with only Corail Tombstone
-      description: you have been able to make this issue happening with only Corail Tombstone. If you don't make this test, your issue will be directly closed without any answer
+      description: you have been able to make this issue happening with only Corail Tombstone.
       options:
         - "No"
         - "Yes"
@@ -74,9 +74,6 @@ body:
   - type: input
     id: relevant-mods
     attributes:
-      label: Relevant others mods
-      description: a short list of mods (max 5) to make the issue happening or just "Corail Tombstone" if it's reproducible with only this mod
-      placeholder: mods to make the issue happening
-    validations:
-      required: true 
-          
+      label: Other relevant mods
+      description: if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening (if this information is incorrect, your issue will be directly closed)
+      placeholder: other mods to make the issue happening
