@@ -90,10 +90,10 @@ body:
       placeholder: other mods to make the issue happening
       
   - type: checkboxes
-    id: valid-user
+    id: valid-launcher
     attributes:
-      label: Valid User
-      description: you don't use a hacked launcher, you have a license for minecraft and so, your log will contain a valid uuid
+      label: Valid Launcher
+      description: you don't use a hacked launcher
       options:
         - label: "Yes"
     validations:
