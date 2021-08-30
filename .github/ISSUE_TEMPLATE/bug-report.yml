@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report an issue
-labels: [bug]
+labels: [checking]
 body:
   - type: markdown
     attributes:
@@ -69,13 +69,16 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
+  - type: dropdown
     id: tombstone-only
     attributes:
-      label: Tested with only Corail Tombstone
-      description: you have been able to reproduce the issue with only Corail Tombstone
+      label: Happen with only Corail Tombstone
+      description: you have been able to make this issue happening with only Corail Tombstone. If you don't make this test, your issue will be directly closed without any answer
       options:
-        - label: "Yes"
+        - No
+        - Yes
+    validations:
+      required: true
 
   - type: input
     id: relevant-mods

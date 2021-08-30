@@ -1,6 +1,6 @@
 name: Beta 1.17.1 Report
 description: Report a bug in the beta 1.17.1
-labels: [beta, 1.17.1, bug]
+labels: [beta, 1.17.1, checking]
 body:
   - type: markdown
     attributes:
@@ -60,18 +60,23 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
+  - type: dropdown
     id: tombstone-only
     attributes:
-      label: Tested with only Corail Tombstone
-      description: you have been able to reproduce the issue with only Corail Tombstone
+      label: Happen with only Corail Tombstone
+      description: you have been able to make this issue happening with only Corail Tombstone. If you don't make this test, your issue will be directly closed without any answer
       options:
-        - label: "Yes"
+        - No
+        - Yes
+    validations:
+      required: true
 
   - type: input
     id: relevant-mods
     attributes:
       label: Relevant others mods
-      description: others mods to make the issue happening
-      placeholder: only required if it's not reproducible with only Corail Tombstone    
+      description: a short list of mods (max 5) to make the issue happening or just "Corail Tombstone" if it's reproducible with only this mod
+      placeholder: mods to make the issue happening
+    validations:
+      required: true 
           
