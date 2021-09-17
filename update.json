@@ -1,7 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.17.1-latest": "7.1.2",
+		"1.17.1-latest": "7.2.0",
 		"1.17.1-recommended": "7.1.2",
 		"1.17-latest": "7.0.5",
 		"1.17-recommended": "7.0.5",
@@ -39,6 +39,7 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.17.1": {
+		"7.2.0": "new merchant",
 		"7.1.2": "fix: no light in the chunk after teleporting back to a grave",
 		"7.1.1": "improvements, forge 37.0.58",
 		"7.1.0": "first release, forge 37.0.42",
