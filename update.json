@@ -3,8 +3,8 @@
 	"promos": {
 		"1.17.1-latest": "7.2.1",
 		"1.17.1-recommended": "7.2.1",
-		"1.16.5-latest": "6.5.3",
-		"1.16.5-recommended": "6.5.2",
+		"1.16.5-latest": "6.5.4",
+		"1.16.5-recommended": "6.5.4",
 		"1.16.4-latest": "1.16-6.2.5",
 		"1.16.4-recommended": "1.16-6.2.5",
 		"1.16.3-latest": "1.16-6.2.5",
@@ -50,6 +50,7 @@
 		"7.0.0": "first beta"
 	},
 	"1.16.5": {
+		"6.5.4": "about halloween",
 		"6.5.3": "new merchant & marble stairs/slab/wall",
 		"6.5.2": "adjustments",
 		"6.5.1": "fix restored experience",
