@@ -23,7 +23,7 @@
 		"1.14.2-recommended": "3.6.2",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.5.0",
+		"1.12.2-latest": "4.5.1",
 		"1.12.2-recommended": "4.4.7",
 		"1.12.1-latest": "2.9.9",
 		"1.12.1-recommended": "2.9.9",
@@ -103,6 +103,7 @@
 		"3.5.2": "final version"
 	},
 	"1.12.2": {
+		"4.5.1": "improvements",
 		"4.5.0": "see changelog",
 		"4.4.7": "fix restored experience",
 		"4.4.6": "fix Shadow Walker",
