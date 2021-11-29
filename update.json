@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.17.1-latest": "7.2.5",
-		"1.17.1-recommended": "7.2.3",
+		"1.17.1-latest": "7.2.6",
+		"1.17.1-recommended": "7.2.6",
 		"1.16.5-latest": "6.6.2",
 		"1.16.5-recommended": "6.6.2",
 		"1.16.4-latest": "1.16-6.2.5",
@@ -37,58 +37,14 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.17.1": {
-		"7.2.5": "fix anvil empty name & adjustments",
-		"7.2.4": "compatibilities",
-		"7.2.3": "fix interaction with the undead merchant during halloween",
-		"7.2.2": "about recycle & compat",
-		"7.2.1": "enchantment frostbite, halloween tweaks",
-		"7.2.0": "new merchant",
-		"7.1.2": "fix: no light in the chunk after teleporting back to a grave",
-		"7.1.1": "improvements, forge 37.0.58",
-		"7.1.0": "first release, forge 37.0.42",
-		"7.0.5": "update to forge 37.0.33",
-		"7.0.4": "improvements & 2 scrolls",
-		"7.0.3": "update to forge 37.0.25, popup when combining in inventory & book of recycling",
-		"7.0.2": "combine in inventory & fixes",
-		"7.0.1": "improvements & fixes",
-		"7.0.0": "first beta"
+		"7.2.6": "final version"
 	},
 	"1.16.5": {
-		"6.6.2": "new book variants & compat",
-		"6.6.1": "compat & minor fixes",
-		"6.6.0": "adjustments",
-		"6.5.5": "fix interaction with the undead merchant during halloween",
-		"6.5.4": "about halloween",
-		"6.5.3": "new merchant & marble stairs/slab/wall",
-		"6.5.2": "adjustments",
-		"6.5.1": "fix restored experience",
-		"6.5.0": "adjustments",
-		"6.4.7": "rebalancing",
-		"6.4.6": "configs, tweak & update apis",
-		"6.4.5": "fixes",
-		"6.4.4": "improvements",
-		"6.4.3": "improvements",
-		"6.4.2": "compat FirstAid & advancements",
-		"6.4.1": "a bunch of new advancements",
-		"6.4.0": "2 enchantments & fix for command tbrecovery",
-		"6.3.8": "compatibilities & fix scroll of reach",
-		"6.3.6": "improvements",
-		"6.3.5": "ukrainian lang, auto-equip, compat & drop",
-		"6.3.4": "compatibilities",
-		"6.3.3": "configs & improvements"
+		"6.6.2": "new book variants & compat"
 	},
 	"1.12.2": {
 		"4.5.1": "improvements",
 		"4.5.0": "see changelog",
-		"4.4.7": "fix restored experience",
-		"4.4.6": "fix Shadow Walker",
-		"4.4.5": "rebalancing",
-		"4.4.4": "perk Shadow Walker, lost tablet of exploration & improvements",
-		"4.4.3": "new advancements & 2 enchantments",
-		"4.4.2": "compatibilities & fix familiar receptacle",
-		"4.4.1": "improvements & fix 4.4.0",
-		"4.4.0": "disableable items, configs, perk Tomb Raider",
-		"4.3.0": "2 grave models, config, bone needle & familiar receptacle drop",
-		"4.2.0": "improved commands related to graves, config & fixes"
+		"4.4.7": "fix restored experience"
 	}
 }
