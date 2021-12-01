@@ -1,32 +1,20 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
+		"1.18-latest": "7.3.0",
+		"1.18-recommended": "7.3.0",
 		"1.17.1-latest": "7.2.6",
 		"1.17.1-recommended": "7.2.6",
 		"1.16.5-latest": "6.6.2",
 		"1.16.5-recommended": "6.6.2",
-		"1.16.4-latest": "1.16-6.2.5",
-		"1.16.4-recommended": "1.16-6.2.5",
-		"1.16.3-latest": "1.16-6.2.5",
-		"1.16.3-recommended": "1.16-6.2.5",
-		"1.16.1-latest": "5.0.2",
-		"1.16.1-recommended": "5.0.2",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
-		"1.15.1-latest": "4.2.2",
-		"1.15.1-recommended": "4.2.2",
 		"1.14.4-latest": "4.3.6",
 		"1.14.4-recommended": "4.3.6",
-		"1.14.3-latest": "3.7.1",
-		"1.14.3-recommended": "3.7.1",
-		"1.14.2-latest": "3.6.2",
-		"1.14.2-recommended": "3.6.2",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
 		"1.12.2-latest": "4.5.1",
 		"1.12.2-recommended": "4.4.7",
-		"1.12.1-latest": "2.9.9",
-		"1.12.1-recommended": "2.9.9",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
 		"1.10.2-latest": "2.9.4",
@@ -35,6 +23,9 @@
 		"1.9.4-recommended": "1.4.1",
 		"1.8.9-latest": "1.4.1",
 		"1.8.9-recommended": "1.4.1"
+	},
+	"1.18": {
+		"7.3.0": "initial port"
 	},
 	"1.17.1": {
 		"7.2.6": "final version"

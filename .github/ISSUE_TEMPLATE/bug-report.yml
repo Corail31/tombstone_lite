@@ -19,6 +19,7 @@ body:
       label: Minecraft Version
       multiple: true
       options:
+        - 1.18
         - 1.16.5
         - 1.12.2
     validations:
@@ -55,8 +56,10 @@ body:
     id: log-link
     attributes:
       label: Log Link
-      description: paste a link for logs in case of crash or if relevant in the resolution of the issue
-      placeholder: pastebin link
+      description: |
+        paste a link for logs in case of crash or if relevant in the resolution of the issue.
+        note that if you have a log showing an error with this mod, you don't need to make the test below and can provide a modpack name.
+      placeholder: gist/pastebin link
 
   - type: dropdown
     id: gametype
@@ -85,8 +88,7 @@ body:
     attributes:
       label: Other relevant mods
       description: |
-        if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening
-        if this information is incorrect, your issue will be directly closed
+        if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening.
       placeholder: other mods to make the issue happening
       
   - type: checkboxes
