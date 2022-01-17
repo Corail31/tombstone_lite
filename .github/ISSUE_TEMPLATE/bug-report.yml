@@ -75,7 +75,7 @@ body:
   - type: dropdown
     id: tombstone-only
     attributes:
-      label: Happen with only Corail Tombstone
+      label: Happen by testing with only Corail Tombstone
       description: you have been able to make this issue happening with only Corail Tombstone.
       options:
         - "No"
