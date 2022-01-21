@@ -1,7 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.18.1-latest": "7.3.5",
+		"1.18.1-latest": "7.3.6",
 		"1.18.1-recommended": "7.3.5",
 		"1.17.1-latest": "7.2.6",
 		"1.17.1-recommended": "7.2.6",
@@ -25,6 +25,7 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.18.1": {
+		"7.3.6": "about particle",
 		"7.3.5": "improvements & fix",
 		"7.3.4": "about combine in inventory",
 		"7.3.3": "improvements",
