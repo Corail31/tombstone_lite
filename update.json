@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
+		"1.18.2-latest": "7.4.2",
+		"1.18.2-recommended": "7.4.2",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
@@ -23,6 +25,9 @@
 		"1.9.4-recommended": "1.4.1",
 		"1.8.9-latest": "1.4.1",
 		"1.8.9-recommended": "1.4.1"
+	},
+	"1.18.2": {
+		"7.4.2": "initial port"
 	},
 	"1.18.1": {
 		"7.4.1": "reset perks & fix #44",
