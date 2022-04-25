@@ -19,7 +19,7 @@ body:
       label: Minecraft Version
       multiple: true
       options:
-        - 1.18
+        - 1.18.2
         - 1.16.5
         - 1.12.2
     validations:
