@@ -1,22 +1,22 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.18.2-latest": "7.4.4",
-		"1.18.2-recommended": "7.4.4",
+		"1.18.2-latest": "7.4.5",
+		"1.18.2-recommended": "7.4.5",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.7.4",
-		"1.16.5-recommended": "6.7.3",
+		"1.16.5-latest": "6.7.5",
+		"1.16.5-recommended": "6.7.5",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
 		"1.14.4-recommended": "4.3.6",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.5.3",
-		"1.12.2-recommended": "4.5.3",
+		"1.12.2-latest": "4.5.4",
+		"1.12.2-recommended": "4.5.4",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
 		"1.10.2-latest": "2.9.4",
@@ -27,6 +27,7 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.18.2": {
+		"7.4.5": "config lost page & fixes ancient tablet",
 		"7.4.4": "forge RB 41.1.0 & fixes #51",
 		"7.4.3": "compat with newer forge & backup",
 		"7.4.2": "initial port"
@@ -48,6 +49,7 @@
 		"7.3.0": "final version"
 	},
 	"1.16.5": {
+		"6.7.5": "config lost page & fixes",
 		"6.7.4": "compat Pehkui & Illager+",
 		"6.7.3": "prayers & fix #44",
 		"6.7.2": "particles & fix #36",
@@ -56,6 +58,7 @@
 		"6.6.2": "new book variants & compat"
 	},
 	"1.12.2": {
+		"4.5.4": "fixes",
 		"4.5.3": "fixes & improvements",
 		"4.5.2": "see changelog",
 		"4.5.1": "improvements",
