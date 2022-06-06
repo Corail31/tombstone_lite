@@ -1,7 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.18.2-latest": "7.4.7",
+		"1.18.2-latest": "7.4.8",
 		"1.18.2-recommended": "7.4.7",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
@@ -27,25 +27,11 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.18.2": {
-		"7.4.7": "compat SurvivalDragon",
-		"7.4.6": "compat",
-		"7.4.5": "config lost page & fixes ancient tablet",
-		"7.4.4": "forge RB 40.1.0 & fixes #51",
-		"7.4.3": "compat with newer forge & backup",
-		"7.4.2": "initial port"
+		"7.4.8": "final version",
+		"7.4.7": "compat SurvivalDragon"
 	},
 	"1.18.1": {
-		"7.4.1": "reset perks & fix #44",
-		"7.4.0": "prayers & reach",
-		"7.3.8": "particle & compat",
-		"7.3.7": "compat with forge",
-		"7.3.6": "about particle",
-		"7.3.5": "improvements & fix",
-		"7.3.4": "about combine in inventory",
-		"7.3.3": "improvements",
-		"7.3.2": "see changelog",
-		"7.3.1": "mixin hooks & fix",
-		"7.3.0": "initial port"
+		"7.4.1": "final version"
 	},
 	"1.17.1": {
 		"7.3.0": "final version"
