@@ -9,8 +9,8 @@
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.7.7",
-		"1.16.5-recommended": "6.7.5",
+		"1.16.5-latest": "6.7.8",
+		"1.16.5-recommended": "6.7.8",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
@@ -34,7 +34,7 @@
 	},
 	"1.18.2": {
 		"7.4.8": "final version",
-		"7.4.7": "compat SurvivalDragon"
+		"7.4.7": "compat Dragon Survival"
 	},
 	"1.18.1": {
 		"7.4.1": "final version"
@@ -43,7 +43,8 @@
 		"7.3.0": "final version"
 	},
 	"1.16.5": {
-		"6.7.7": "compat SurvivalDragon",
+		"6.7.8": "additional compat Dragon Survival(#59)",
+		"6.7.7": "compat Dragon Survival",
 		"6.7.6": "increased range with ankh",
 		"6.7.5": "config lost page & fixes",
 		"6.7.4": "compat Pehkui & Illager+",
