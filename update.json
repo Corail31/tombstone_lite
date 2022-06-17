@@ -3,8 +3,8 @@
 	"promos": {
 		"1.19-latest": "8.0.0",
 		"1.19-recommended": "8.0.0",
-		"1.18.2-latest": "7.4.8",
-		"1.18.2-recommended": "7.4.7",
+		"1.18.2-latest": "7.4.9",
+		"1.18.2-recommended": "7.4.9",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
@@ -33,8 +33,7 @@
 		"7.5.0": "initial port"
 	},
 	"1.18.2": {
-		"7.4.8": "final version",
-		"7.4.7": "compat Dragon Survival"
+		"7.4.9": "final version"
 	},
 	"1.18.1": {
 		"7.4.1": "final version"
@@ -45,22 +44,9 @@
 	"1.16.5": {
 		"6.7.8": "additional compat Dragon Survival(#59)",
 		"6.7.7": "compat Dragon Survival",
-		"6.7.6": "increased range with ankh",
-		"6.7.5": "config lost page & fixes",
-		"6.7.4": "compat Pehkui & Illager+",
-		"6.7.3": "prayers & fix #44",
-		"6.7.2": "particles & fix #36",
-		"6.7.1": "improvements",
-		"6.6.3": "see changelog",
-		"6.6.2": "new book variants & compat"
+		"6.7.6": "increased range with ankh"
 	},
 	"1.12.2": {
-		"4.5.5": "fixes & compat FluidLogged Api",
-		"4.5.4": "fixes",
-		"4.5.3": "fixes & improvements",
-		"4.5.2": "see changelog",
-		"4.5.1": "improvements",
-		"4.5.0": "see changelog",
-		"4.4.7": "fix restored experience"
+		"4.5.5": "fixes & compat FluidLogged Api"
 	}
 }
