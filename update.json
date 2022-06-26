@@ -17,7 +17,7 @@
 		"1.14.4-recommended": "4.3.6",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.5.5",
+		"1.12.2-latest": "4.5.6",
 		"1.12.2-recommended": "4.5.5",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
@@ -46,6 +46,7 @@
 		"6.7.6": "increased range with ankh"
 	},
 	"1.12.2": {
+		"4.5.6": "improves auto-equip",
 		"4.5.5": "fixes & compat FluidLogged Api"
 	}
 }
