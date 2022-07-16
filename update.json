@@ -3,8 +3,8 @@
 	"promos": {
 		"1.19-latest": "8.0.3",
 		"1.19-recommended": "8.0.3",
-		"1.18.2-latest": "7.4.9",
-		"1.18.2-recommended": "7.4.9",
+		"1.18.2-latest": "7.4.10",
+		"1.18.2-recommended": "7.4.10",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
@@ -33,7 +33,7 @@
 		"8.0.2": "improvements"
 	},
 	"1.18.2": {
-		"7.4.9": "final version"
+		"7.4.10": "final version"
 	},
 	"1.18.1": {
 		"7.4.1": "final version"
