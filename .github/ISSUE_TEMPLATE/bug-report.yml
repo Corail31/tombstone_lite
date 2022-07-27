@@ -89,9 +89,20 @@ body:
     attributes:
       label: Other relevant mods
       description: |
-        if your previous answer is "No", provide a short list of mods (max 5) to make the issue happening.
+        if this issue is not happening with only Corail Tombstone, provides the minimal list of mods (max 5) to make the issue happening.
       placeholder: other mods to make the issue happening
-      
+ 
+  - type: checkboxes
+    id: valid-forge
+    attributes:
+      label: Tested without any Forge "alternatives" (Magma, Mohist, and so on)
+      description: |
+        you didn't use a forge alternative for the provided informations
+        if your problem only occurs with such a "hybrid server", it's better to report to them
+      options:
+        - label: "Yes"
+          required: true
+ 
   - type: checkboxes
     id: valid-launcher
     attributes:
