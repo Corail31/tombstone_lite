@@ -67,22 +67,13 @@ body:
   - type: dropdown
     id: tombstone-only
     attributes:
-      label: Happen by testing with only Corail Tombstone (this test is required)
+      label: Happen by testing with only Corail Tombstone (required)
       description: you have been able to make this issue happening with only Corail Tombstone in single player.
       options:
         - "No"
         - "Yes"
     validations:
       required: true
-  
-  - type: input
-    id: log-link
-    attributes:
-      label: Log Link
-      description: |
-        paste a link for logs in case of crash or if relevant in the resolution of the issue.
-        note that if you have a log showing an error with this mod, you don't need to fill the relevant mods below and can provide a modpack name.
-      placeholder: gist/pastebin link
 
   - type: input
     id: relevant-mods
@@ -91,7 +82,17 @@ body:
       description: |
         if this issue is not happening with only Corail Tombstone, provides the minimal list of mods (max 5) to make the issue happening.
       placeholder: other mods to make the issue happening
- 
+
+  - type: input
+    id: log-link
+    attributes:
+      label: Log Link (required)
+      description: |
+        paste a link for debug log.
+      placeholder: gist/pastebin link
+    validations:
+      required: true
+
   - type: checkboxes
     id: valid-forge
     attributes:
