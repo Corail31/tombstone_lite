@@ -19,7 +19,7 @@ body:
       label: Minecraft Version
       multiple: true
       options:
-        - 1.19.1
+        - 1.19.2
         - 1.18.2
         - 1.16.5
         - 1.12.2
@@ -75,6 +75,17 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: occurence
+    attributes:
+      label: Occurence
+      description: Is it easy to make this issue occuring ?
+      options:
+        - "occurs all the time"
+        - "occurs rarely"
+    validations:
+      required: true
+
   - type: input
     id: relevant-mods
     attributes:
@@ -86,12 +97,10 @@ body:
   - type: input
     id: log-link
     attributes:
-      label: Log Link (required)
+      label: Log Link
       description: |
-        paste a link for debug log.
+        paste a link for debug log if you think it might help or if you have a crash.
       placeholder: gist/pastebin link
-    validations:
-      required: true
 
   - type: checkboxes
     id: valid-forge
