@@ -21,8 +21,8 @@
 		"1.14.4-recommended": "4.3.6",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.5.7",
-		"1.12.2-recommended": "4.5.7",
+		"1.12.2-latest": "4.5.8",
+		"1.12.2-recommended": "4.5.8",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
 		"1.10.2-latest": "2.9.4",
@@ -60,8 +60,6 @@
 		"6.7.9": "final version"
 	},
 	"1.12.2": {
-		"4.5.7": "improvements",
-		"4.5.6": "improves auto-equip",
-		"4.5.5": "fixes & compat FluidLogged Api"
+		"4.5.8": "final version"
 	}
 }
