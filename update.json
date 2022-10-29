@@ -7,8 +7,8 @@
 		"1.19.1-recommended": "8.1.0",
 		"1.19-latest": "8.0.4",
 		"1.19-recommended": "8.0.4",
-		"1.18.2-latest": "7.5.6",
-		"1.18.2-recommended": "7.5.6",
+		"1.18.2-latest": "7.5.7",
+		"1.18.2-recommended": "7.5.7",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
@@ -42,7 +42,7 @@
 		"8.1.4": "perk Necromancer & updates lang"
 	},
 	"1.18.2": {
-		"7.5.6": "final version"
+		"7.5.7": "final version"
 	},
 	"1.17.1": {
 		"7.3.0": "final version"
