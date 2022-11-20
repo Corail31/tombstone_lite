@@ -13,8 +13,8 @@
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.8.6",
-		"1.16.5-recommended": "6.8.6",
+		"1.16.5-latest": "6.8.7",
+		"1.16.5-recommended": "6.8.7",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
@@ -39,11 +39,8 @@
 	"1.18.2": {
 		"7.5.8": "final version"
 	},
-	"1.17.1": {
-		"7.3.0": "final version"
-	},
 	"1.16.5": {
-		"6.8.6": "final version"
+		"6.8.7": "final version"
 	},
 	"1.12.2": {
 		"4.5.13": "final version"
