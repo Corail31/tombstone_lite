@@ -15,16 +15,16 @@
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.8.10",
-		"1.16.5-recommended": "6.8.10",
+		"1.16.5-latest": "6.8.11",
+		"1.16.5-recommended": "6.8.11",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
 		"1.14.4-recommended": "4.3.6",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.6.1",
-		"1.12.2-recommended": "4.6.1",
+		"1.12.2-latest": "4.6.2",
+		"1.12.2-recommended": "4.6.2",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
 		"1.10.2-latest": "2.9.4",
@@ -46,9 +46,9 @@
 		"7.6.1": "final version"
 	},
 	"1.16.5": {
-		"6.8.10": "final version"
+		"6.8.11": "final version"
 	},
 	"1.12.2": {
-		"4.6.1": "final version (LTS)"
+		"4.6.2": "final version (LTS)"
 	}
 }
