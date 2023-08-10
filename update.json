@@ -7,7 +7,7 @@
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
 		"1.19.3-recommended": "8.3.2",
-		"1.19.2-latest": "8.2.10",
+		"1.19.2-latest": "8.2.11",
 		"1.19.2-recommended": "8.2.10",
 		"1.19.1-latest": "8.1.0",
 		"1.19.1-recommended": "8.1.0",
@@ -46,6 +46,7 @@
 		"8.4.2": "improvements"
 	},
 	"1.19.2": {
+		"8.2.11": "improvements",
 		"8.2.10": "compatibility DragonSurvival"
 	},
 	"1.18.2": {
