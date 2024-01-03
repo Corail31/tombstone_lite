@@ -3,8 +3,8 @@
 	"promos": {
 		"1.20.2-latest": "8.6.1",
 		"1.20.2-recommended": "8.6.1",
-		"1.20.1-latest": "8.5.5",
-		"1.20.1-recommended": "8.5.5",
+		"1.20.1-latest": "8.5.6",
+		"1.20.1-recommended": "8.5.6",
 		"1.19.4-latest": "8.4.2",
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
@@ -45,8 +45,8 @@
 		"8.6.0": "initial port"
 	},
 	"1.20.1": {
-		"8.5.5": "reduces minimal forge version",
-		"8.5.4": "improvements"
+		"8.5.6": "improvements",
+		"8.5.5": "reduces minimal forge version"
 	},
 	"1.19.4": {
 		"8.4.2": "improvements"
