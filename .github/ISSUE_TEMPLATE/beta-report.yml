@@ -1,11 +1,11 @@
-name: Beta 1.20.2 Report
-description: Report a bug in the beta 1.20.2
-labels: [beta, 1.20.2, checking]
+name: Beta 1.20.4 Report
+description: Report a bug in the beta 1.20.4
+labels: [beta, 1.20.4, checking]
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome to the place to report issues for the beta 1.20.2. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+        Welcome to the place to report issues for the beta 1.20.4. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
         Also make sure if it's not a known issue:
