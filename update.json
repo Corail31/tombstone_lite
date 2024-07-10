@@ -1,38 +1,38 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.20.4-latest": "8.6.3",
-		"1.20.4-recommended": "8.6.3",
+		"1.20.4-latest": "8.6.4",
+		"1.20.4-recommended": "8.6.4",
 		"1.20.2-latest": "8.6.3",
 		"1.20.2-recommended": "8.6.3",
-		"1.20.1-latest": "8.6.6",
-		"1.20.1-recommended": "8.6.6",
+		"1.20.1-latest": "8.6.7",
+		"1.20.1-recommended": "8.6.7",
 		"1.19.4-latest": "8.4.2",
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
 		"1.19.3-recommended": "8.3.2",
-		"1.19.2-latest": "8.2.17",
-		"1.19.2-recommended": "8.2.17",
+		"1.19.2-latest": "8.2.18",
+		"1.19.2-recommended": "8.2.18",
 		"1.19.1-latest": "8.1.0",
 		"1.19.1-recommended": "8.1.0",
 		"1.19-latest": "8.0.4",
 		"1.19-recommended": "8.0.4",
-		"1.18.2-latest": "7.6.9",
-		"1.18.2-recommended": "7.6.9",
+		"1.18.2-latest": "7.6.10",
+		"1.18.2-recommended": "7.6.10",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.8.17",
-		"1.16.5-recommended": "6.8.17",
+		"1.16.5-latest": "6.8.18",
+		"1.16.5-recommended": "6.8.18",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
 		"1.14.4-recommended": "4.3.6",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.6.7",
-		"1.12.2-recommended": "4.6.7",
+		"1.12.2-latest": "4.6.8",
+		"1.12.2-recommended": "4.6.8",
 		"1.11.2-latest": "2.9.0.1",
 		"1.11.2-recommended": "2.9.0.1",
 		"1.10.2-latest": "2.9.4",
@@ -43,12 +43,13 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.20.4": {
-		"8.6.3": "final version"
+		"8.6.4": "final version"
 	},
 	"1.20.2": {
 		"8.6.3": "final version"
 	},
 	"1.20.1": {
+		"8.6.7": "fixes",
 		"8.6.6": "fixes",
 		"8.6.5": "Tablet of Guard & Easter Egg rarity",
 		"8.6.4": "Grave Guardian cloak & fixes Tablet of Cupidity",
@@ -59,6 +60,7 @@
 		"8.4.2": "final version"
 	},
 	"1.19.2": {
+		"8.2.18": "fixes",
 		"8.2.17": "fixes",
 		"8.2.16": "improvements",
 		"8.2.15": "Easter changes",
@@ -66,11 +68,13 @@
 		"8.2.13": "improvements"
 	},
 	"1.18.2": {
+		"7.6.10": "fixes",
 		"7.6.9": "fixes",
 		"7.6.8": "Easter event",
 		"7.6.7": "compat ChunkByChunk"
 	},
 	"1.16.5": {
+		"6.8.18": "fixes",
 		"6.8.17": "fixes",
 		"6.8.16": "Easter event",
 		"6.8.15": "fixes",
@@ -78,6 +82,7 @@
 		"6.8.13": "improvements"
 	},
 	"1.12.2": {
+		"4.6.8": "fixes",
 		"4.6.7": "fixes",
 		"4.6.6": "improvements",
 		"4.6.5": "fixes",
