@@ -8,7 +8,9 @@ body:
         Welcome to the place to report issues for the beta 1.21. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
-        Also make sure if it's not a known issue.
+        Also make sure if it's not a known issue mentioned here :
+        - tombstone loots are not added to loottables for fishing, treasure chests, undead, archaeology, seeker_rod, cat_morning, sniffer_digging
+        Note that theses known issues will be resolved in the next release.
   
   - type: markdown
     attributes:
