@@ -9,8 +9,7 @@ body:
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
         Also make sure if it's not a known issue mentioned here :
-        - a few advancement triggers automatically (inventory_changed using a tag)
-        - dedicated server won't start (sideonly trouble)
+        - nothing known
         
         Note that theses known issues will be resolved in the next release.
   
