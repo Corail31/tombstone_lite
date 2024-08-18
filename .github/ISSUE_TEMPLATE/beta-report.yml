@@ -12,7 +12,8 @@ body:
         - armor enchantments don't work properly (unrelated to new configs)
         - "knowledge of death" bar displays incorrectly (also affects 1.16.5 -> 1.20.1)
         - arrow & mouse icons don't appear in custom toast for combination message
-        - animated mouse icon doesn't appear in JEI in combination recipes
+        - animated mouse icon is not positioned correctly in JEI in combination recipes
+        - clicking on slider widget in Config Screen don't set the cursor at this exact position
         
         Note that theses known issues will be resolved in the next release.
   
