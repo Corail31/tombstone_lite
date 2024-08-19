@@ -9,11 +9,7 @@ body:
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
         Also make sure if it's not a known issue mentioned here :
-        - armor enchantments don't work properly (unrelated to new configs)
-        - "knowledge of death" bar displays incorrectly (also affects 1.16.5 -> 1.20.1)
-        - arrow & mouse icons don't appear in custom toast for combination message
-        - animated mouse icon is not positioned correctly in JEI in combination recipes
-        - clicking on slider widget in Config Screen don't set the cursor at this exact position
+        - nothing known
         
         Note that theses known issues will be resolved in the next release.
   
