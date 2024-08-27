@@ -8,7 +8,6 @@ body:
         Welcome to the place to report issues. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
-        Known incompatibilities: EssentialsX plugin ([they don't support modded server](https://github.com/EssentialsX/Essentials/issues/5920)).
   
   - type: markdown
     attributes:
@@ -20,6 +19,7 @@ body:
       label: Minecraft Version
       multiple: true
       options:
+        - "1.21.1"
         - "1.20.1"
         - "1.19.2"
         - "1.18.2"
@@ -34,6 +34,14 @@ body:
       label: Forge Version
     validations:
       required: true
+
+  - type: input
+    id: hybrid-server
+    attributes:
+      label: Hybrid Server
+      description: Precise if you're using a fork of Forge (Ketting, Mohist, Magma and so on)
+    validations:
+      required: false
       
   - type: input
     id: tombstone-version
@@ -69,8 +77,10 @@ body:
   - type: dropdown
     id: tombstone-only
     attributes:
-      label: Happen by testing with only Corail Tombstone (required)
-      description: you have been able to make this issue happening with only Corail Tombstone in single player.
+      label: Happen by testing with only Corail Tombstone on Forge (required)
+      description: |
+        You have been able to make this issue happening with only Corail Tombstone.
+        If you use a Hybrid Server, you have to do this test with Forge (and it's better to also open an issue to their repository if your problem doesn't occur with Forge)
       options:
         - "No"
         - "Yes"
@@ -103,17 +113,6 @@ body:
       description: |
         paste a link for debug log if you think it might help or if you have a crash.
       placeholder: gist/pastebin link
-
-  - type: checkboxes
-    id: valid-forge
-    attributes:
-      label: Tested without any Forge "alternatives" (Magma, Mohist, and so on)
-      description: |
-        you didn't use a forge alternative for the provided informations
-        if your problem only occurs with such a "hybrid server", it's better to report to them
-      options:
-        - label: "Yes"
-          required: true
  
   - type: checkboxes
     id: valid-launcher
