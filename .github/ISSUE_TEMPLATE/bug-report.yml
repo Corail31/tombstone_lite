@@ -28,10 +28,21 @@ body:
     validations:
       required: true
       
-  - type: input
-    id: forge-version
+  - type: dropdown
+    id: framework-type
     attributes:
-      label: Forge Version
+      label: Framework Type
+      multiple: false
+      options:
+        - "Forge"
+        - "NeoForge"
+    validations:
+      required: true
+      
+  - type: input
+    id: framework-version
+    attributes:
+      label: Framework Version
     validations:
       required: true
 
