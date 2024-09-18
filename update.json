@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.21.1-latest": "9.0.7",
-		"1.21.1-recommended": "9.0.7",
+		"1.21.1-latest": "9.0.8",
+		"1.21.1-recommended": "9.0.8",
 		"1.21-latest": "9.0.4",
 		"1.21-recommended": "9.0.4",
 		"1.20.4-latest": "8.6.4",
@@ -47,6 +47,7 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.21.1": {
+		"9.0.8": "Book of Soulbound",
 		"9.0.7": "fixes issue 238",
 		"9.0.6": "alignment changes and improvements",
 		"9.0.5": "improvements",
