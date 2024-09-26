@@ -27,8 +27,8 @@
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.9.0",
-		"1.16.5-recommended": "6.9.0",
+		"1.16.5-latest": "6.9.1",
+		"1.16.5-recommended": "6.9.1",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
@@ -49,10 +49,7 @@
 	"1.21.1": {
 		"9.0.8": "Book of Soulbound",
 		"9.0.7": "fixes issue 238",
-		"9.0.6": "alignment changes and improvements",
-		"9.0.5": "improvements",
-		"9.0.4": "improvements & fixes",
-		"9.0.3": "improvements & fixes"
+		"9.0.6": "alignment changes and improvements"
 	},
 	"1.20.4": {
 		"8.6.4": "final version"
@@ -63,10 +60,7 @@
 	"1.20.1": {
 		"8.7.4": "Book of Soulbound",
 		"8.7.3": "fixes issue 238",
-		"8.7.2": "alignment changes and improvements",
-		"8.7.1": "improvements & fixes",
-		"8.7.0": "improvements",
-		"8.6.8": "improvements & fixes"
+		"8.7.2": "alignment changes and improvements"
 	},
 	"1.19.4": {
 		"8.4.2": "final version"
@@ -78,14 +72,13 @@
 		"7.7.1": "improvements"
 	},
 	"1.16.5": {
-		"6.9.0": "improvements"
+		"6.9.1": "improvements"
 	},
 	"1.12.2": {
 		"4.6.8": "fixes",
 		"4.6.7": "fixes",
 		"4.6.6": "improvements",
 		"4.6.5": "fixes",
-		"4.6.4": "Grave Guardian & improvements",
-		"4.6.3": "Easter event"
+		"4.6.4": "Grave Guardian & improvements"
 	}
 }
