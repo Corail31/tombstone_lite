@@ -21,8 +21,8 @@
 		"1.19.1-recommended": "8.1.0",
 		"1.19-latest": "8.0.4",
 		"1.19-recommended": "8.0.4",
-		"1.18.2-latest": "7.7.1",
-		"1.18.2-recommended": "7.7.1",
+		"1.18.2-latest": "7.7.2",
+		"1.18.2-recommended": "7.7.2",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
@@ -74,6 +74,7 @@
 		"8.3.2": "improvements"
 	},
 	"1.18.2": {
+		"7.7.2": "improvements",
 		"7.7.1": "improvements"
 	},
 	"1.16.5": {
