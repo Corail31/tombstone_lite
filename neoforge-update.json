@@ -3,15 +3,16 @@
 	"promos": {
 		"1.21.3-latest": "9.2.0",
 		"1.21.3-recommended": "9.2.0",
-		"1.21.1-latest": "9.1.5",
-		"1.21.1-recommended": "9.1.5",
-		"1.21-latest": "9.1.5",
-		"1.21-recommended": "9.1.5"
+		"1.21.1-latest": "9.1.6",
+		"1.21.1-recommended": "9.1.6",
+		"1.21-latest": "9.1.6",
+		"1.21-recommended": "9.1.6"
 	},
 	"1.21.3": {
 		"9.2.0": "initial port"
 	}
 	"1.21.1": {
+		"9.1.6": "fixe auto-equip with horse armor",
 		"9.1.5": "fixes",
 		"9.1.4": "fixes",
 		"9.1.3": "improvements",
