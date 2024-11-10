@@ -17,20 +17,20 @@
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
 		"1.19.3-recommended": "8.3.2",
-		"1.19.2-latest": "8.3.4",
-		"1.19.2-recommended": "8.3.4",
+		"1.19.2-latest": "8.3.5",
+		"1.19.2-recommended": "8.3.5",
 		"1.19.1-latest": "8.1.0",
 		"1.19.1-recommended": "8.1.0",
 		"1.19-latest": "8.0.4",
 		"1.19-recommended": "8.0.4",
-		"1.18.2-latest": "7.7.3",
-		"1.18.2-recommended": "7.7.3",
+		"1.18.2-latest": "7.7.4",
+		"1.18.2-recommended": "7.7.4",
 		"1.18.1-latest": "7.4.1",
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.9.3",
-		"1.16.5-recommended": "6.9.3",
+		"1.16.5-latest": "6.9.4",
+		"1.16.5-recommended": "6.9.4",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
@@ -80,16 +80,19 @@
 		"8.4.2": "final version"
 	},
 	"1.19.2": {
+		"8.3.5": "configs",
 		"8.3.4": "fixes issue 256",
 		"8.3.3": "improvements",
 		"8.3.2": "improvements"
 	},
 	"1.18.2": {
+		"7.7.4": "configs",
 		"7.7.3": "fixes issue 256",
 		"7.7.2": "improvements",
 		"7.7.1": "improvements"
 	},
 	"1.16.5": {
+		"6.9.4": "configs",
 		"6.9.3": "fixes Grave Guardian's outfit during Halloween",
 		"6.9.2": "improvements",
 		"6.9.1": "improvements"
