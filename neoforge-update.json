@@ -3,26 +3,15 @@
 	"promos": {
 		"1.21.3-latest": "9.2.1",
 		"1.21.3-recommended": "9.2.1",
-		"1.21.1-latest": "9.1.6",
-		"1.21.1-recommended": "9.1.6",
-		"1.21-latest": "9.1.6",
-		"1.21-recommended": "9.1.6"
+		"1.21.1-latest": "9.1.7",
+		"1.21.1-recommended": "9.1.7"
 	},
 	"1.21.3": {
 		"9.2.1": "fixes",
 		"9.2.0": "initial port"
 	},
 	"1.21.1": {
-		"9.1.6": "fixe auto-equip with horse armor",
-		"9.1.5": "fixes",
-		"9.1.4": "fixes",
-		"9.1.3": "improvements",
-		"9.1.2": "fixes",
-		"9.1.1": "fixes issue 248",
-		"9.1.0": "fixes",
-		"9.0.3": "improvements",
-		"9.0.2": "Book of Soulbound",
-		"9.0.1": "fixes issue 238",
-		"9.0.0": "initial port"
+		"9.1.7": "improvements",
+		"9.1.6": "fixe auto-equip with horse armor"
 	}
 }
