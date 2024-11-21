@@ -9,8 +9,8 @@
 		"1.20.4-recommended": "8.6.4",
 		"1.20.2-latest": "8.6.3",
 		"1.20.2-recommended": "8.6.3",
-		"1.20.1-latest": "8.8.5",
-		"1.20.1-recommended": "8.8.5",
+		"1.20.1-latest": "8.8.6",
+		"1.20.1-recommended": "8.8.6",
 		"1.19.4-latest": "8.4.2",
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
@@ -61,12 +61,9 @@
 		"8.6.3": "final version"
 	},
 	"1.20.1": {
+		"8.8.6": "updates Christmas event",
 		"8.8.5": "improvements",
-		"8.8.4": "improvements",
-		"8.8.3": "improvements",
-		"8.8.2": "fixes",
-		"8.8.1": "improvements",
-		"8.8.0": "fixes"
+		"8.8.4": "improvements"
 	},
 	"1.19.4": {
 		"8.4.2": "final version"
