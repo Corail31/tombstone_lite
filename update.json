@@ -25,8 +25,8 @@
 		"1.18.1-recommended": "7.4.1",
 		"1.17.1-latest": "7.3.0",
 		"1.17.1-recommended": "7.3.0",
-		"1.16.5-latest": "6.9.5",
-		"1.16.5-recommended": "6.9.5",
+		"1.16.5-latest": "6.9.6",
+		"1.16.5-recommended": "6.9.6",
 		"1.15.2-latest": "4.6.0",
 		"1.15.2-recommended": "4.6.0",
 		"1.14.4-latest": "4.3.6",
@@ -80,6 +80,7 @@
 		"7.7.4": "configs"
 	},
 	"1.16.5": {
+		"6.9.6": "updates Christmas event",
 		"6.9.5": "improvements",
 		"6.9.4": "configs",
 		"6.9.3": "fixes Grave Guardian's outfit during Halloween",
