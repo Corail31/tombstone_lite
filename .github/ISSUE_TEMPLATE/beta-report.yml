@@ -8,6 +8,9 @@ body:
         Welcome to the place to report issues for the beta 1.21.4. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
+        
+        Known Issues:
+        - can't click some color sliders in Config Screen (due to row list widgets being active when they shouldn't)
   
   - type: markdown
     attributes:
