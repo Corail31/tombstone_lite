@@ -9,8 +9,9 @@ body:
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
         
-        Known Issues:
-        - can't click some color sliders in Config Screen (due to row list widgets being active when they shouldn't)
+        Known Issues (resolved in next release)
+        - can't click some color sliders in Config Screen (Neoforge)
+        - compatibility with Iris (and shaderpacks) is not enabled (Neoforge)
   
   - type: markdown
     attributes:
