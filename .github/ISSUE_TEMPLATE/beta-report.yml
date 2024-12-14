@@ -12,6 +12,7 @@ body:
         Known Issues (resolved in next release)
         - can't click some color sliders in Config Screen (Neoforge)
         - compatibility with Iris (and shaderpacks) is not enabled (Neoforge)
+        - "Knowledge of Death" capability seems broken (Forge)
   
   - type: markdown
     attributes:
