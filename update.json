@@ -5,8 +5,8 @@
 		"1.21.4-recommended": "9.3.0",
 		"1.21.3-latest": "9.2.3",
 		"1.21.3-recommended": "9.2.3",
-		"1.21.1-latest": "9.1.9",
-		"1.21.1-recommended": "9.1.9",
+		"1.21.1-latest": "9.1.10",
+		"1.21.1-recommended": "9.1.10",
 		"1.20.4-latest": "8.6.4",
 		"1.20.4-recommended": "8.6.4",
 		"1.20.2-latest": "8.6.3",
@@ -56,6 +56,7 @@
 		"9.2.0": "initial port"
 	},
 	"1.21.1": {
+		"9.1.10": "configs & fixes",
 		"9.1.9": "updates Christmas event",
 		"9.1.8": "improvements",
 		"9.1.7": "improvements"
