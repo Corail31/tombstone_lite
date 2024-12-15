@@ -3,8 +3,8 @@
 	"promos": {
 		"1.21.4-latest": "9.3.0",
 		"1.21.4-recommended": "9.3.0",
-		"1.21.3-latest": "9.2.3",
-		"1.21.3-recommended": "9.2.3",
+		"1.21.3-latest": "9.2.4",
+		"1.21.3-recommended": "9.2.4",
 		"1.21.1-latest": "9.1.10",
 		"1.21.1-recommended": "9.1.10",
 		"1.20.4-latest": "8.6.4",
@@ -50,6 +50,7 @@
 		"9.3.0": "initial port"
 	},
 	"1.21.3": {
+		"9.2.4": "configs & fixes",
 		"9.2.3": "updates Christmas event",
 		"9.2.2": "improvements",
 		"9.2.1": "improvements",
