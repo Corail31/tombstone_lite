@@ -1,14 +1,15 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.21.4-latest": "9.3.4",
-		"1.21.4-recommended": "9.3.4",
+		"1.21.4-latest": "9.3.5",
+		"1.21.4-recommended": "9.3.5",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
 		"1.21.1-latest": "9.2.2",
 		"1.21.1-recommended": "9.2.2"
 	},
 	"1.21.4": {
+		"9.3.5": "abandoned grave",
 		"9.3.4": "improvements",
 		"9.3.3": "improves enchantments"
 	},
