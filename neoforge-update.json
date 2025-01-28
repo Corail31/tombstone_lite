@@ -5,8 +5,8 @@
 		"1.21.4-recommended": "9.3.5",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.2.4",
-		"1.21.1-recommended": "9.2.4"
+		"1.21.1-latest": "9.2.5",
+		"1.21.1-recommended": "9.2.5"
 	},
 	"1.21.4": {
 		"9.3.5": "abandoned grave",
@@ -17,9 +17,6 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
-		"9.2.4": "improvements",
-		"9.2.3": "abandoned grave",
-		"9.2.2": "improvements",
-		"9.2.1": "improves enchantments"
+		"9.2.5": "final version"
 	}
 }
