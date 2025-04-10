@@ -11,8 +11,8 @@
 		"1.20.4-recommended": "8.6.4",
 		"1.20.2-latest": "8.6.3",
 		"1.20.2-recommended": "8.6.3",
-		"1.20.1-latest": "8.9.2",
-		"1.20.1-recommended": "8.9.2",
+		"1.20.1-latest": "8.9.3",
+		"1.20.1-recommended": "8.9.3",
 		"1.19.4-latest": "8.4.2",
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
@@ -62,6 +62,7 @@
 		"8.6.3": "final version"
 	},
 	"1.20.1": {
+		"8.9.3": "improvements",
 		"8.9.2": "abandoned graves",
 		"8.9.1": "improvements",
 		"8.9.0": "improves enchantments",
