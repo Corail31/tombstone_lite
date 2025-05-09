@@ -7,7 +7,7 @@
 		"1.21.4-recommended": "9.3.7",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.3.0",
+		"1.21.1-latest": "9.3.1",
 		"1.21.1-recommended": "9.3.0"
 	},
 	"1.21.5": {
@@ -20,6 +20,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
-		"9.3.0": "final version"
+		"9.3.1": "compatibility Dragon Survival",
+		"9.3.0": "improvements"
 	}
 }
