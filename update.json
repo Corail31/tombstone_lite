@@ -3,8 +3,8 @@
 	"promos": {
 		"1.21.5-latest": "9.4.1",
 		"1.21.5-recommended": "9.4.1",
-		"1.21.4-latest": "9.3.8",
-		"1.21.4-recommended": "9.3.8",
+		"1.21.4-latest": "9.3.9",
+		"1.21.4-recommended": "9.3.9",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
 		"1.21.1-latest": "9.1.10",
@@ -53,7 +53,7 @@
 		"9.4.0": "initial port"
 	},
 	"1.21.4": {
-		"9.3.8": "final version"
+		"9.3.9": "final version"
 	},
 	"1.21.3": {
 		"9.2.4": "final version"
