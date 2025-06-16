@@ -19,8 +19,8 @@
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
 		"1.19.3-recommended": "8.3.2",
-		"1.19.2-latest": "8.3.7",
-		"1.19.2-recommended": "8.3.7",
+		"1.19.2-latest": "8.3.8",
+		"1.19.2-recommended": "8.3.8",
 		"1.19.1-latest": "8.1.0",
 		"1.19.1-recommended": "8.1.0",
 		"1.18.2-latest": "7.7.6",
@@ -80,7 +80,7 @@
 		"8.4.2": "final version"
 	},
 	"1.19.2": {
-		"8.3.7": "final version"
+		"8.3.8": "final version"
 	},
 	"1.18.2": {
 		"7.7.6": "final version"
