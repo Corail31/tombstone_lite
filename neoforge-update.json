@@ -11,8 +11,8 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.4.0",
-		"1.21.1-recommended": "9.4.0"
+		"1.21.1-latest": "9.4.1",
+		"1.21.1-recommended": "9.4.1"
 	},
 	"1.21.7": {
 		"9.5.1": "first forgotten knowledge"
@@ -30,6 +30,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
+		"9.4.1": "new event Spring Bloom",
 		"9.4.0": "first forgotten knowledge",
 		"9.3.4": "fixes compat TAN",
 		"9.3.3": "about familiar",
