@@ -1,0 +1,77 @@
+name: Translation
+description: update existing translations or provide missing ones
+labels: [translation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the place for translations. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+        This template can only be used to provide or update translations, if you want to report an issue, please consider to use the adequate template.
+        Note that no specific languages (example: "fr_ca") will be accepted if they have only partial differences with the "main" language (example: "fr_fr").
+        
+  - type: markdown
+    attributes:
+      value: "## Versions"
+      
+  - type: dropdown
+    id: minecraft-version
+    attributes:
+      label: Minecraft Version
+      multiple: true
+      options:
+        - "1.21.7"
+        - "1.21.1"
+        - "1.20.1"
+        - "1.19.2"
+        - "1.18.2"
+        - "1.16.5"
+        - "1.12.2"
+    validations:
+      required: true
+      
+  - type: input
+    id: tombstone-version
+    attributes:
+      label: Corail Tombstone Version
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: "## Translation Info"
+      
+  - type: dropdown
+    id: translation_type
+    attributes:
+      label: Type of Translation
+      description: Is it to update an existing translation or to provide a missing translation ?
+      options:
+        - "update"
+        - "new translation"
+    validations:
+      required: true
+             
+  - type: input
+    id: provided_languages
+    attributes:
+      label: Languages
+      description: Which languages are provided ?
+    validations:
+      required: true
+
+  - type: input
+    id: language-links
+    attributes:
+      label: Language Links
+      description: |
+        paste a link for the every provided lang files.
+      placeholder: gist/pastebin link
+      
+  - type: checkboxes
+    id: no_automatic-translation
+    attributes:
+      label: No Automatic Translation
+      description: You wrote these translations without a machine translation tool and proofread its content
+      options:
+        - label: "Yes"
+          required: true
