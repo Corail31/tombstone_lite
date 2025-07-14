@@ -64,7 +64,7 @@ body:
     attributes:
       label: Language Links
       description: |
-        paste a link for the every provided lang files.
+        paste a link for every provided lang files.
       placeholder: gist/pastebin link
       
   - type: checkboxes
