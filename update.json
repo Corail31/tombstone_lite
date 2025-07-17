@@ -17,8 +17,8 @@
 		"1.20.4-recommended": "8.6.4",
 		"1.20.2-latest": "8.6.3",
 		"1.20.2-recommended": "8.6.3",
-		"1.20.1-latest": "9.0.3",
-		"1.20.1-recommended": "9.0.2",
+		"1.20.1-latest": "9.0.4",
+		"1.20.1-recommended": "9.0.3",
 		"1.19.4-latest": "8.4.2",
 		"1.19.4-recommended": "8.4.2",
 		"1.19.3-latest": "8.3.2",
@@ -81,17 +81,11 @@
 		"8.6.3": "final version"
 	},
 	"1.20.1": {
+		"9.0.4": "third forgotten knowledge & ritual flute",
 		"9.0.3": "screaming graves",
 		"9.0.2": "second forgotten knowledge & readable scrolls",
 		"9.0.1": "new event Spring Bloom",
-		"9.0.0": "first forgotten knowledge",
-		"8.9.8": "fixes compat TAN",
-		"8.9.7": "config to force special event",
-		"8.9.6": "about familiar",
-		"8.9.5": "improvements",
-		"8.9.4": "configs for special events",
-		"8.9.3": "improvements",
-		"8.9.2": "abandoned graves"
+		"9.0.0": "first forgotten knowledge"
 	},
 	"1.19.4": {
 		"8.4.2": "final version"
