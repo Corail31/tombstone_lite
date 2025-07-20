@@ -1,8 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.21.7-latest": "9.5.5",
-		"1.21.7-recommended": "9.5.5",
+		"1.21.8-latest": "9.5.6",
+		"1.21.8-recommended": "9.5.6",
+		"1.21.7-latest": "9.5.6",
+		"1.21.7-recommended": "9.5.6",
 		"1.21.6-latest": "9.5.1",
 		"1.21.6-recommended": "9.5.1",
 		"1.21.5-latest": "9.4.4",
@@ -14,12 +16,11 @@
 		"1.21.1-latest": "9.4.4",
 		"1.21.1-recommended": "9.4.3"
 	},
+	"1.21.8": {
+		"9.5.6": "third forgotten knowledge & ritual flute"
+	},
 	"1.21.7": {
-		"9.5.5": "screaming graves",
-		"9.5.4": "improvements",
-		"9.5.3": "scrollable readable scrolls",
-		"9.5.2": "Spring Bloom & second forgotten knowledge",
-		"9.5.1": "first forgotten knowledge"
+		"9.5.6": "final version"
 	},
 	"1.21.6": {
 		"9.5.1": "final version"
