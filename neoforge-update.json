@@ -13,8 +13,8 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.4.4",
-		"1.21.1-recommended": "9.4.3"
+		"1.21.1-latest": "9.4.5",
+		"1.21.1-recommended": "9.4.5"
 	},
 	"1.21.8": {
 		"9.5.6": "third forgotten knowledge & ritual flute"
@@ -35,6 +35,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
+		"9.4.5": "fourth forgotten knowledge",
 		"9.4.4": "third forgotten knowledge & ritual flute",
 		"9.4.3": "screaming graves",
 		"9.4.2": "second forgotten knowledge & readable scrolls",
