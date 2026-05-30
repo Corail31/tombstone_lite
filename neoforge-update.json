@@ -13,14 +13,11 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.4.9",
-		"1.21.1-recommended": "9.4.9"
+		"1.21.1-latest": "9.4.10",
+		"1.21.1-recommended": "9.4.10"
 	},
 	"1.21.8": {
-		"9.5.9": "improvements",
-		"9.5.8": "reworks the perk system & improves all guiscreens",
-		"9.5.7": "fourth forgotten knowledge",
-		"9.5.6": "third forgotten knowledge & ritual flute"
+		"9.5.9": "final version"
 	},
 	"1.21.7": {
 		"9.5.8": "final version"
@@ -38,6 +35,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
+		"9.4.10": "zh_cn translation",
 		"9.4.9": "fixes",
 		"9.4.8": "fixes",
 		"9.4.7": "improvements",
