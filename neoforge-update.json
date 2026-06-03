@@ -1,10 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.21.10-latest": "9.6.0",
-		"1.21.10-recommended": "9.6.0",
-		"1.21.9-latest": "9.6.0",
-		"1.21.9-recommended": "9.6.0",
+		"1.21.10-latest": "9.6.1",
+		"1.21.10-recommended": "9.6.1",
+		"1.21.9-latest": "9.6.1",
+		"1.21.9-recommended": "9.6.1",
 		"1.21.8-latest": "9.5.10",
 		"1.21.8-recommended": "9.5.10",
 		"1.21.7-latest": "9.5.10",
@@ -21,10 +21,10 @@
 		"1.21.1-recommended": "9.4.10"
 	},
 	"1.21.10": {
-		"9.6.0": "initial port"
+		"9.6.1": "fixes"
 	},
 	"1.21.9": {
-		"9.6.0": "initial port"
+		"9.6.1": "fixes"
 	},
 	"1.21.8": {
 		"9.5.10": "fixes"
