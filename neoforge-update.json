@@ -5,10 +5,10 @@
 		"1.21.10-recommended": "9.6.0",
 		"1.21.9-latest": "9.6.0",
 		"1.21.9-recommended": "9.6.0",
-		"1.21.8-latest": "9.5.9",
-		"1.21.8-recommended": "9.5.9",
-		"1.21.7-latest": "9.5.9",
-		"1.21.7-recommended": "9.5.9",
+		"1.21.8-latest": "9.5.10",
+		"1.21.8-recommended": "9.5.10",
+		"1.21.7-latest": "9.5.10",
+		"1.21.7-recommended": "9.5.10",
 		"1.21.6-latest": "9.5.1",
 		"1.21.6-recommended": "9.5.1",
 		"1.21.5-latest": "9.4.4",
@@ -27,10 +27,10 @@
 		"9.6.0": "initial port"
 	},
 	"1.21.8": {
-		"9.5.9": "final version"
+		"9.5.10": "fixes"
 	},
 	"1.21.7": {
-		"9.5.8": "final version"
+		"9.5.10": "fixes"
 	},
 	"1.21.6": {
 		"9.5.1": "final version"
