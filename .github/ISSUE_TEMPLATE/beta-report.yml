@@ -20,6 +20,7 @@ body:
       multiple: false
       options:
         - "NeoForge"
+        - "Forge"
     validations:
       required: true
       
