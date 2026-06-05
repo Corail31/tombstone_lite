@@ -1,11 +1,11 @@
 name: Beta Report
-description: Report a bug in beta 1.21.8-1.21.11
+description: Report a bug in beta 1.21.8-26.1.2
 labels: [beta, checking]
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome to the place to report issues for beta versions 1.21.8 through 1.21.11. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+        Welcome to the place to report issues for beta versions 1.21.8 through 26.1.2. If you have only questions, please consider to ask them on the [Official Page](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
         Make to sure to provide any information that can help in the resolution of the issue.
         The language used to fill the information is english, but can be in french as long as you're really french native (no google translation).
   
@@ -19,6 +19,7 @@ body:
       label: Minecraft Version
       multiple: true
       options:
+        - "26.1.2"
         - "1.21.11"
         - "1.21.10"
         - "1.21.8"
