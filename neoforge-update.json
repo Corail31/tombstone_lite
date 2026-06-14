@@ -21,7 +21,7 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.4.10",
+		"1.21.1-latest": "9.5.0",
 		"1.21.1-recommended": "9.4.10"
 	},
 	"26.1.2": {
@@ -57,20 +57,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
-		"9.4.10": "zh_cn translation",
-		"9.4.9": "fixes",
-		"9.4.8": "fixes",
-		"9.4.7": "improvements",
-		"9.4.6": "reworks the perk system & improves all guiscreens",
-		"9.4.5": "fourth forgotten knowledge",
-		"9.4.4": "third forgotten knowledge & ritual flute",
-		"9.4.3": "screaming graves",
-		"9.4.2": "second forgotten knowledge & readable scrolls",
-		"9.4.1": "new event Spring Bloom",
-		"9.4.0": "first forgotten knowledge",
-		"9.3.4": "fixes compat TAN",
-		"9.3.3": "about familiar",
-		"9.3.2": "improvements",
-		"9.3.1": "compatibility Dragon Survival"
+		"9.5.0": "improvements",
+		"9.4.10": "zh_cn translation"
 	}
 }
