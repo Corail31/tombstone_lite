@@ -23,8 +23,8 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.5.0",
-		"1.21.1-recommended": "9.4.10"
+		"1.21.1-latest": "9.5.1",
+		"1.21.1-recommended": "9.5.1"
 	},
 	"26.2.0": {
 		"9.9.1": "fixes",
@@ -61,7 +61,6 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
-		"9.5.0": "improvements",
-		"9.4.10": "zh_cn translation"
+		"9.5.1": "improvements"
 	}
 }
