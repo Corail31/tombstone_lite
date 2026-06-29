@@ -3,8 +3,8 @@
 	"promos": {
 		"26.2-latest": "9.9.1",
 		"26.2-recommended": "9.9.1",
-		"26.1.2-latest": "9.8.2",
-		"26.1.2-recommended": "9.8.2",
+		"26.1.2-latest": "9.8.3",
+		"26.1.2-recommended": "9.8.3",
 		"1.21.11-latest": "9.7.1",
 		"1.21.11-recommended": "9.7.1",
 		"1.21.10-latest": "9.6.2",
@@ -31,7 +31,7 @@
 		"9.9.0": "initial port"
 	},
 	"26.1.2": {
-		"9.8.2": "improvements"
+		"9.8.3": "improvements"
 	},
 	"1.21.11": {
 		"9.7.1": "final version"
