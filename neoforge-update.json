@@ -1,5 +1,5 @@
 {
-	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+	"homepage": "https://modrinth.com/mod/corail-tombstone",
 	"promos": {
 		"26.2-latest": "9.9.3",
 		"26.2-recommended": "9.9.3",
@@ -23,8 +23,8 @@
 		"1.21.4-recommended": "9.3.10",
 		"1.21.3-latest": "9.2.4",
 		"1.21.3-recommended": "9.2.4",
-		"1.21.1-latest": "9.5.3",
-		"1.21.1-recommended": "9.5.3"
+		"1.21.1-latest": "9.5.4",
+		"1.21.1-recommended": "9.5.4"
 	},
 	"26.2.0": {
 		"9.9.3": "new lore Nights of Nour",
@@ -64,6 +64,7 @@
 		"9.2.4": "final version"
 	},
 	"1.21.1": {
+		"9.5.4": "ritual flute interaction",
 		"9.5.3": "new lore Nights of Nour",
 		"9.5.2": "data-driven trades",
 		"9.5.1": "improvements"
